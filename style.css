@@ -179,7 +179,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--red);
+    background-color: var(--blue);
     border-radius: 20px;
     border: none;
     cursor: pointer;
